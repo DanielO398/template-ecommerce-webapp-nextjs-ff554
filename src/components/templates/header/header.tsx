@@ -3,7 +3,7 @@ import { useTranslation } from 'next-i18next';
 import Link from 'next/link';
 
 import MobileLogo from '@icons/bonelli-mobile.svg';
-import DesktopLogo from '@icons/solar_boxlogo_blue_rgb.png';
+import DesktopLogo from '@icons/solarboxlogobluergb.png';
 import { LanguageSelector } from '@src/components/features/language-selector';
 
 export const HEADER_HEIGHT = 60;
